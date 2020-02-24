@@ -1,2 +1,2 @@
 # Bar-Chart-Project
-Set up
+Set up!
